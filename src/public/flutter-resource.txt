@@ -1,0 +1,13 @@
+
+数据存储：shared_preferences    https://www.jianshu.com/p/735b5684e900
+
+路由：	fluro   https://github.com/theyakka/fluro
+
+网络：	dio  https://github.com/flutterchina/dio
+
+上下拉组件:pull_to_refresh   https://github.com/peng8350/flutter_pulltorefresh/blob/master/README_CN.md#child
+
+常用组件参考 Flutter Go     https://github.com/alibaba/flutter-go
+
+组件api：https://api.flutter.dev/flutter/material/material-library.html
+

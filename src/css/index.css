@@ -1,0 +1,17 @@
+body {
+  color: blueviolet;
+  font-size: 20px;
+}
+.pic {
+  width: 100px;
+  height: 100px;
+  background: url('../images/temp.jpg');
+  background-size: 100%;
+  transform: rotate(45deg);
+  box-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+  box-sizing: border-box;
+}
+
+.ddddd {
+  text-align: right;
+}
